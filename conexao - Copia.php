@@ -1,0 +1,2 @@
+<?php
+$servidor = 'IPdoServidor';$usuario = 'usuarioDoBanco';$dbname = 'nomeDoBanco';$senha = 'SenhadoBanco';$porta = porta;$conexao = mysqli_connect($servidor, $usuario, $senha, $dbname, $porta);*/?>
